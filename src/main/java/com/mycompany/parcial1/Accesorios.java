@@ -23,7 +23,8 @@ public class Accesorios  extends Producto{
     public String toString() {
         return "Accesorios{" + "auriculares=" + auriculares + '}';
     }
-    
+
+
     
    
 }
